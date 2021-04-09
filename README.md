@@ -1,5 +1,7 @@
 # RegExp Named Capture Groups
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 Stage 4
 
 Champions: Daniel Ehrenberg (Igalia) & Mathias Bynens (Google)
